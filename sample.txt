@@ -1,0 +1,2 @@
+W+ mode erased old data.
+A+ adds new line.
